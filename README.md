@@ -16,3 +16,18 @@ This project performs a detailed **sales analysis** using Python. It covers data
 
 ## 🛠️ Installation
 1. Clone the repository:
+git clone https://github.com/ramanthete/Sales_Analysis.git
+2. Install required libraries:
+pip install pandas matplotlib seaborn
+3. Run the Jupyter Notebook:
+jupyter notebook Sales_Analysis.ipynb
+
+## 🚀 Usage
+- Analyze sales patterns
+- Identify revenue growth areas
+- Visualize sales performance
+
+## 🔗 **GitHub Link**
+[Sales Analysis Project](https://github.com/ramanthete/Sales_Analysis)
+
+
